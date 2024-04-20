@@ -1,0 +1,12 @@
+<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" id="linea">\n
+    <rect x="0.5" y="0.5" width="47" height="47" rx="23.5" fill="black" />\n
+    <rect x="0.5" y="0.5" width="47" height="47" rx="23.5" stroke="currentColor" />\n <mask id="linea_mask0_21456_91388"
+        style="mask-type:luminance" maskUnits="userSpaceOnUse" x="14" y="12" width="24" height="24">\n
+        <path d="M37.249 12.3926H14V35.409H37.249V12.3926Z" fill="white" />\n
+    </mask>\n <g mask="url(#linea_mask0_21456_91388)">\n
+        <path d="M33.3083 35.4086H14V16.127H18.4178V31.6717H33.3083V35.4066V35.4086Z" fill="white" />\n
+        <path
+            d="M33.3078 19.8623C35.4842 19.8623 37.2485 18.1901 37.2485 16.1274C37.2485 14.0647 35.4842 12.3926 33.3078 12.3926C31.1315 12.3926 29.3672 14.0647 29.3672 16.1274C29.3672 18.1901 31.1315 19.8623 33.3078 19.8623Z"
+            fill="white" />\n
+    </g>\n
+</svg>

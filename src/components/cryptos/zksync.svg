@@ -1,0 +1,7 @@
+<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" id="zksync">\n
+    <circle cx="24" cy="24" r="23.5" fill="black" stroke="currentColor" />\n
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M37.4995 24.8859L29.5927 17.0146V22.7758L21.7451 28.5489H29.5927V32.7572L37.4995 24.8859Z" fill="white" />\n
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M9.6416 24.886L17.5484 32.7573V27.0317L25.396 21.2112H17.5484V17.0029L9.6416 24.886Z" fill="white" />\n
+</svg>
